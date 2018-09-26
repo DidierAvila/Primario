@@ -1,0 +1,6 @@
+[submodule "Secundario"]
+	path = Secundario
+	url = git@github.com:DidierAvila/Secundario.git
+[submodule "Js"]
+	path = Js
+	url = git@github.com:DidierAvila/Secundario.git
